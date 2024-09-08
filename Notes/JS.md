@@ -22,7 +22,7 @@
 - filter : return elements that pass the test implemented by the provided function
 - some : if any element statisfies the condition
 - every : every element satisfies the condition
-- find : if elemt is present else undefined.
+- find : if element is present else undefined.
 - findIndex : finds index else -1
 - reduce : Applies a function against an accumulator and each element in the array (from left to right) to reduce it to a single value.
 ```Javascript 

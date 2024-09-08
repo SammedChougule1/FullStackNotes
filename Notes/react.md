@@ -1,0 +1,2 @@
+- [before interview](https://youtu.be/wIyHSOugGGw?si=051BsY5zWrLNk-7P)
+- [react Hooks](https://youtu.be/LOH1l-MP_9k?si=SVhKANY9a6XxgJhN)
